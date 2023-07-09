@@ -1,0 +1,15 @@
+{
+    "name": "ROCKPAPERSCISSORS",
+    "short_name": "ROCKPAPERSCISSORS",
+    "theme_color": "#2f3d58",
+    "background_color": "#2f3d58",
+    "display": "standalone",
+    "start_url": "/",
+    "icons": [
+     {
+      "src": "/icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+     }
+    ]
+  }
